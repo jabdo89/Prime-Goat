@@ -49,11 +49,6 @@ const Authors01 = () => {
         <div className="row">
           <div className="col-md-12">
             <h2 className="tf-title style4">Team</h2>
-            <p className="tf-sub-title">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum
-              obcaecati dignissimos quae quo ad iste ipsum officiis deleniti
-              asperiores sit.
-            </p>
           </div>
           <div className="col-md-12">
             <Swiper

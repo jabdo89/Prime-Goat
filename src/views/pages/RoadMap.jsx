@@ -38,11 +38,6 @@ const RoadMap = () => {
       subtitle: "100%",
       img: Img5,
     },
-    {
-      title: "Get ready for season 2",
-      subtitle: null,
-      img: null,
-    },
   ]);
   return (
     <section className="tf-section brow-category home5 bg-style2">
